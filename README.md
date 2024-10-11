@@ -6,6 +6,13 @@
 
 => The OS shows "**Hello world from Rishabh**" as output when booted.
 
+=> We have created 5 files and languages used in them-
+   * kernel.cpp- C++ used
+   * loader.s- X86 assembly language used
+   * linker.ld- linker command language used
+   * types.h- C++ used
+   * Makefile- makefile command language used
+
 
 **REQUIREMENTS**
 
